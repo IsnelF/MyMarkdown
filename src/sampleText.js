@@ -1,0 +1,1 @@
+export const sampleText = '# Titre\n## Sous-Titre \n### Un autre Sous Titre \n\n* **gras**, italique*, \n`code`, ~~rayé~~.\n\nListe:\n\n  * noir\n  * orange\n  * rouge\n\nListe numérotée:\n\n  1. rond\n  2. carré\n  3. triangle\n\n *[BuyCo](http://www.buycoforgrowth.com)* \n\n Lien : http://www.buycoforgrowth.com/business-intelligence/ \n\n```\n console.log("hello"); \n``` ';
